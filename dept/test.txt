@@ -1,0 +1,4 @@
+Hello, this is a sample text file.
+It contains multiple lines of text,
+which will be mapped into memory using mmap().
+Enjoy reading this example content!
